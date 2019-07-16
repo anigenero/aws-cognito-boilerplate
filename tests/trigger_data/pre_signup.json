@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "triggerSource": "PreSignUp_SignUp",
+  "region": "us-east-1",
+  "identityPoolId": "",
+  "identityId": "",
+  "request": {
+    "userAttributes": {
+      "email": "tony.stark@avengers.gov"
+    }
+  },
+  "response": {
+    "autoConfirmUser": false,
+    "autoVerifyEmail": false
+  }
+}

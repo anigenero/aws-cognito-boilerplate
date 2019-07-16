@@ -1,0 +1,12 @@
+/.serverless
+/node_modules/
+__pycache__
+
+requirements.txt
+
+.pytest_cache
+.coverage
+coverage.xml
+stack.output.json
+
+htmlcov
